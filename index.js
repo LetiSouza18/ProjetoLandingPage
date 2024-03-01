@@ -15,7 +15,7 @@ function RolarParaDireita(){
 function RolarParaEsquerda(){
     leonardo.style ="display: flex"
     bruna.style ="display: none"
-    setaDireita.style = "display: flex; margin-top: 50px"
+    setaDireita.style = "display: flex; margin-top: 55px"
     setaEsquerda.style = "display: none"
 }
 

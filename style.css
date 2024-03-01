@@ -80,6 +80,9 @@
 #seta-esquerda{
     display: none;
 }
+#seta-direita{
+    margin-top: 55px;
+}
 
 #bruna{
     display: none;
