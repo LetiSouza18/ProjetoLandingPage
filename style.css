@@ -79,16 +79,13 @@
 
 #seta-esquerda{
     display: none;
-
 }
-
 
 #bruna{
     display: none;
 }
 
 .seta{
-    margin-top: 55%;
     cursor: pointer;
 }
 
